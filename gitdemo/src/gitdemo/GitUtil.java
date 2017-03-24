@@ -10,4 +10,8 @@ public class GitUtil {
 	private void runSample(String arg){
 		System.out.println("Sample function ");
 	}
+	
+	private int multiplyTwoNumbers(int a, int b){
+		return a*b;
+	}
 }
