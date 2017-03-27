@@ -14,4 +14,12 @@ public class GitUtil {
 	private int multiplyTwoNumbers(int a, int b){
 		return a*b;
 	}
+	
+	private int diffTwoNum(int a, int b){
+		return a-b;
+	}
+	
+	private int diffTwoNum1(int a, int b){
+		return a-b;
+	}
 }
