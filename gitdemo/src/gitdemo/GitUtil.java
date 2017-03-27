@@ -22,4 +22,8 @@ public class GitUtil {
 	private int diffTwoNum1(int a, int b){
 		return a-b;
 	}
+	
+	private int diffTwoNum2(int a, int b){
+		return a-b;
+	}
 }
